@@ -32,6 +32,6 @@ The project covers three major projects done in ECE 464: Testing, Reliability, a
 ### Improvements:
 - Let the user enter custom LFSR tap 
 
-### Example
+### Example:
 ![alt text](https://github.com/JimPalomo/Fault-Control-PRPG-Simulation/blob/master/assets/sample-1.png)
 ![alt text](https://github.com/JimPalomo/Fault-Control-PRPG-Simulation/blob/master/assets/sample-2.png)
